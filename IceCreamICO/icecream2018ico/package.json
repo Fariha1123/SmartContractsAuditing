@@ -1,0 +1,23 @@
+{
+  "name": "icecream2018ico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/MybitbucketAdmin/icecream2018ico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/MybitbucketAdmin/icecream2018ico#readme",
+  "dependencies": {
+    "zeppelin-solidity": "1.10.0"
+  }
+}
